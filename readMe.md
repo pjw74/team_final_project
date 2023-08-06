@@ -23,8 +23,9 @@
 
 <br>
 
-- 건물정보: [Open API1](https://www.vworld.kr/dev/v4dv_apiuse_s001.do)
-  - 직방api: [Request 사용법](https://investraveler.tistory.com/155)
+- 건물 정보(Vworld API): [Open API](https://www.vworld.kr/dev/v4dv_apiuse_s001.do)
+
+- 직방 api: [Request 사용법](https://investraveler.tistory.com/155)
 
 <br>
 
