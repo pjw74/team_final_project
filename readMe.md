@@ -12,9 +12,9 @@
 
 2. 주제
 
-- 건물별 전력 사용량 예측
+- 날씨에 따른 지역, 건물별 전력 사용량 예측
 
-  - 전력: [Open API](https://opm.kepco.co.kr/cmsmain.do?scode=S01&pcode=000187&redirect=Y#n)
+  - 전력 사용량: [Open API](https://opm.kepco.co.kr/cmsmain.do?scode=S01&pcode=000187&redirect=Y#n)
 
   <br>
 
@@ -23,9 +23,10 @@
 
 <br>
 
-- 건물 정보(Vworld API): [Open API](https://www.vworld.kr/dev/v4dv_apiuse_s001.do)
+- 날씨 정보 API: [Open API](https://openweathermap.org/)
+- 건물 정보 API(Vworld API): [Open API](https://www.vworld.kr/dev/v4dv_apiuse_s001.do)
 
-- 직방 api: [Request 사용법](https://investraveler.tistory.com/155)
+- 직방 API: [Request 사용법](https://investraveler.tistory.com/155)
 
 <br>
 
