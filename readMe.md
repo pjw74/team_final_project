@@ -31,11 +31,15 @@
 
 - 관련 데이콘 대회
 
+  - https://dacon.io/competitions/official/236125/overview/description
+
   - 하지만 주체측에서 제공하는 데이터셋을 써야하는 제한 사항 있음
     - [데이터 예시](https://dacon.io/competitions/official/236125/data)
   - 참여 기간(7.17~8.28)
-    - https://dacon.io/competitions/official/236125/overview/description
 
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
